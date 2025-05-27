@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Vansika Jhawar</h1>
 <h3 align="center">AI Enthusiast | ML Researcher | Developer | Tech for Impact</h3>
 
