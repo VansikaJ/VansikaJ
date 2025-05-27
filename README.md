@@ -2,7 +2,7 @@
 <h3 align="center">AI Enthusiast | ML Researcher | Developer | Tech for Impact</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.Build.Solve.; Passionate+about+AI,+ML,+IoT+and+Problem+Solving!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.Build.Solve.;Passionate+about+AI,+ML,+IoT+and+Problem+Solving!&center=true&width=500&height=45">
 </p>
 
 ---
